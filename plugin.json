@@ -1,0 +1,19 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "woia-marketing-analytics",
+  "version": "0.5.0",
+  "description": "WOIA Marketing provider for source-bounded campaign measurement, reproducible rate calculations, attribution limitations, performance analysis, and evidence-backed learnings.",
+  "author": {
+    "name": "Turpial AI Academy",
+    "url": "https://github.com/Turpial-AI-Academy"
+  },
+  "homepage": "https://github.com/Turpial-AI-Academy/woia-marketing-analytics-agent-plugin",
+  "repository": "https://github.com/Turpial-AI-Academy/woia-marketing-analytics-agent-plugin",
+  "license": "MIT",
+  "keywords": [
+    "agent-plugin",
+    "woia",
+    "marketing",
+    "marketing-analytics"
+  ]
+}
