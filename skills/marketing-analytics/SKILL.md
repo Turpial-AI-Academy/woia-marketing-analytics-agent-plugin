@@ -4,7 +4,7 @@ description: Measure and analyze Marketing performance from authorized source da
 license: MIT
 metadata:
   author: Turpial AI Academy
-  version: "0.5.0"
+  version: "0.5.1"
 ---
 
 # Marketing Analytics
@@ -36,3 +36,7 @@ Input contains metrics with `name`, `numerator`, and `denominator`. The tool ret
 ## Effects
 
 Analytics is read-only by default. Recommendations do not authorize campaign changes.
+
+## B5 qualified consumer eligibility
+
+B5 allows Data to consume Marketing-owned non-paid/portal/organic analytics evidence for source/quality evaluation. This does not transfer Marketing outcome ownership, authorize paid Ads effects or make Data a universal read/write proxy. Recommendations remain read-only and never competent business acceptance.
