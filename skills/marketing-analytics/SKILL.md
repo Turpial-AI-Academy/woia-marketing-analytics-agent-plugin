@@ -4,7 +4,7 @@ description: Measure and analyze Marketing performance from authorized source da
 license: MIT
 metadata:
   author: Turpial AI Academy
-  version: "0.5.6"
+  version: "0.5.7"
 ---
 
 # Marketing Analytics

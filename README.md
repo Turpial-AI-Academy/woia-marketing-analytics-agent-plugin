@@ -1,6 +1,6 @@
 # woia-marketing-analytics
 
-WOIA Marketing v0.5.6 provider for `marketing.analytics`.
+WOIA Marketing v0.5.7 provider for `marketing.analytics`.
 
 - Primary skill: `$marketing-analytics`
 - Authoring profile: thin
