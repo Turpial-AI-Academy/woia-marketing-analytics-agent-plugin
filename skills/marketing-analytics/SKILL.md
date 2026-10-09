@@ -37,6 +37,6 @@ Input contains metrics with `name`, `numerator`, and `denominator`. The tool ret
 
 Analytics is read-only by default. Recommendations do not authorize campaign changes.
 
-## B5 qualified consumer eligibility
+## Consumer eligibility
 
-B5 allows Data to consume Marketing-owned non-paid/portal/organic analytics evidence for source/quality evaluation. This does not transfer Marketing outcome ownership, authorize paid Ads effects or make Data a universal read/write proxy. Recommendations remain read-only and never competent business acceptance.
+Data may to consume Marketing-owned non-paid/portal/organic analytics evidence for source/quality evaluation. This does not transfer Marketing outcome ownership, authorize paid Ads effects or make Data a universal read/write proxy. Recommendations remain read-only and never competent business acceptance.
